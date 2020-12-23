@@ -3,6 +3,7 @@ from tkinter import messagebox
 import math
 screen = Tk()
 screen.title('Smart Calculator')
+screen.iconbitmap('cal.ico')
 screen.maxsize(width=453,height=490)
 screen.minsize(width=453,height=490)
 screen.configure(bg="blue")
