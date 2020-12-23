@@ -15,6 +15,15 @@ Steps to create our calculator:
 Final Step:
 go to your My Calculator folder and type cmd in the menu bar Command Prompt will open then type 'python Setup.py bdist_msi' in cmd
 
+wait for the command prompt to finish our command
+
+if the cmd has done it's work then close cmd
+
+and open your My Calculator folder and go to the dist folder.
+you'll see a Installer.
+
+Then the installer is ready.
+
 #Your Calculator is Ready!
 
 Thank you.
