@@ -9,5 +9,12 @@ Steps to create our calculator:
 5.After creating the Virtual Environment copy the code the code or download the file from My Calculator file.
 6.If you want to make the calculator installable go to the 'My Calculator Installer' file and copy the code or download the code after creating the file.
 7.After creating the file go to the menu bar present in the File Explorer, if you dont know menu bar just google it.
+8.Create a new file and name it as Setup
+9.Open the Setup file and copy the code or download the code from My Calculator Installer and paste it in Setup
+
+Final Step:
+go to your My Calculator folder and type cmd in the menu bar Command Prompt will open then type 'python Setup.py bdist_msi' in cmd
+
+#Your Calculator is Ready!
 
 Thank you.
