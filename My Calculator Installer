@@ -37,7 +37,7 @@ setup(
     options={'build_exe': {'include_files': includefiles}, "bdist_msi": bdist_msi_options, },
     executables=[
         Executable(
-            script=My Calculator.py",
+            script="My Calculator.py",
             base=base,
             icon='cal.ico',
         )
