@@ -11,7 +11,7 @@ if sys.platform == "win32":
 shortcut_table = [
     ("DesktopShortcut",  # Shortcut
      "DesktopFolder",  # Directory_
-     "Smart Note Pad",  # Name
+     "My Calculator",  # Name
      "TARGETDIR",  # Component_
      "[TARGETDIR]\My Calculator.exe",  # Target
      None,  # Arguments
